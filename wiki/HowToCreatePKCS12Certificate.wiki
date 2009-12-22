@@ -3,7 +3,7 @@
 
 = Introduction =
 
-This Library is designed to use a PKCS12 format Certificate file, which includes the Private and Public keys in a single container.  This page will show you how to generate this file using the Certificates you downloaded from _iPhone Developer Program Portal_ in either OSX's Keychain or using OpenSSL.
+This Library is designed to use a PKCS12 format Certificate file, which includes the Private Key and Certificate in a single container.  This page will show you how to generate this file using the Certificates you downloaded from _iPhone Developer Program Portal_ in either OSX's Keychain or using OpenSSL.
 
 
 = Details =
