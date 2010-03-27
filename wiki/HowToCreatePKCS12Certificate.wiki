@@ -13,7 +13,7 @@ After you've created the appropriate Push Notification Certificate in _iPhone De
 
 Finally, if you filter Keychain to show your _login_ container's Certificates, you should see your Certificate listed.  Expand the certificate, and there should be a Key underneath/attached to it.
 
-Right Click or Ctrl+Click on the appropriate Certificate or the Key and choose _Export_.  Keychain will ask you to choose a password to export to.  Pick one and remember it.  You should end up with a _.p12_ file.  You will need this file and the password you picked to use the Notification and Feedback Libraries here.
+Right Click or Ctrl+Click on the appropriate Certificate and choose _Export_.  Keychain will ask you to choose a password to export to.  Pick one and remember it.  You should end up with a _.p12_ file.  You will need this file and the password you picked to use the Notification and Feedback Libraries here.
 
 
 ==OpenSSL==
